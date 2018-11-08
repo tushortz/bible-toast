@@ -1,0 +1,3 @@
+validators==4.3.0
+requests
+win10toast==0.9
